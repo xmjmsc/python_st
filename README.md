@@ -1,2 +1,2 @@
 # python_st
-this is 
+python 学习笔记
