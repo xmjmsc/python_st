@@ -1,10 +1,10 @@
 import os
+
 with open('gau16.sh', 'r', encoding="utf-8") as f1:
     text = f1.readlines()
     text[15] = 'jobname=\n'
 with open('gau16.sh', 'w', encoding="utf-8") as f1:
     f1.writelines(text)
-
 
 
 

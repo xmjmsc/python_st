@@ -13,19 +13,14 @@ for filename in files:
 
 
 
-
-
-
 # for file in files:
-	# with open(file,"r",encoding="utf-8") as f:
-	# 	lines = f.readlines()
-	# # with open(file,"w",encoding="utf-8") as f_w:
-	# 	for line in lines:
-	# 		if "%nprocshared=20" in line:
-	# 			line = line.replace("%nprocshared=20","%nprocshared=20")
-	# 	f.write(line)	
-
-
+# with open(file,"r",encoding="utf-8") as f:
+# 	lines = f.readlines()
+# # with open(file,"w",encoding="utf-8") as f_w:
+# 	for line in lines:
+# 		if "%nprocshared=20" in line:
+# 			line = line.replace("%nprocshared=20","%nprocshared=20")
+# 	f.write(line)
 
 
 # for filename in files:
